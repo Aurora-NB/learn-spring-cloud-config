@@ -1,0 +1,2 @@
+config:
+	info: prod branch, learn-spring-cloud-config/config-prod.yml version=1.0
